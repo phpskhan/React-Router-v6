@@ -1,3 +1,7 @@
+## React-Router-v6
+
+React Router v6 is a popular and powerful routing library for React applications. It provides a declarative, component-based approach to routing and handles the common tasks of dealing with URL params, redirects, and loading data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
